@@ -1,3 +1,5 @@
+import pandas as pd
+
 def get_sentiment(df):
     ###### Valence Shifters ######
     v_shift = pd.read_csv('data/valenceshifter.csv')
