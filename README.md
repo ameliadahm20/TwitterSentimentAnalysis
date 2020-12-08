@@ -77,13 +77,13 @@ Furthermore, our prediction model was fit to the entire dataset.  It's possible 
 
 Please review our full analysis in [our Jupyter Notebook](./SentimentAnalysis.ipynb) or our [presentation](https://docs.google.com/presentation/d/1Yv25gIvnjTro58RzoQQlWH8ScWMWAmlaDA5BKMhcFyI/edit?usp=sharing).
 
-For any additional questions, please contact **Amelia Dahm dahma@iu.edu, Eric Roberts etr359@gmail.com**
+For any additional questions, please contact **Amelia Dahm ameliaadahm@gmail.com, Eric Roberts etr359@gmail.com**
 
 ## Repository Structure
 
 ```
 ├── README.md                          <- The top-level README for reviewers of this project
-├── SentimentAnalysis.ipynb            <- Narrative documentation of analysis in Jupyter NB
+├── FinalNotebookOutline.ipynb            <- Narrative documentation of analysis in Jupyter NB
 ├── AncillaryAnalyses                  <- Notebooks containing ancillary analyses 
 ├── data                               <- Both sourced externally and generated from code
 └── images                             <- Both sourced externally and generated from code
