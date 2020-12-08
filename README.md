@@ -83,7 +83,7 @@ For any additional questions, please contact **Amelia Dahm ameliaadahm@gmail.com
 
 ```
 ├── README.md                          <- The top-level README for reviewers of this project
-├── SentimentAnalysis.ipynb            <- Narrative documentation of analysis in Jupyter NB
+├── FinalNotebookOutline.ipynb            <- Narrative documentation of analysis in Jupyter NB
 ├── AncillaryAnalyses                  <- Notebooks containing ancillary analyses 
 ├── data                               <- Both sourced externally and generated from code
 └── images                             <- Both sourced externally and generated from code
