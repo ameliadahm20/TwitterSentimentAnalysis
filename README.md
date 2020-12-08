@@ -67,7 +67,9 @@ Figure 6 shows the confusion matrix for our final random forest classifer model 
 ### Figure 6
 ![Figure 6](./images/rfc_confusion_matrix.png)
  
-## Next Steps
+## Conclusions and Next Steps
+
+We report a model to classify the sentiment of technology related tweets with over 92% accuracy.  Our content analysis created actionable insights for stakeholders.
 
 The dataset is restricted to tweets from one festival in one year limiting its generalizability. To illustrate, this data set is from the 2011 SXSW when the iPad 2 was released, hence it's high frequency count among tweets with a positive valence.  However, it's likely that as technology updates older versions of products may be referenced negatively.  Incorporating tweets from consequtive years may help address this shortcoming.
 
@@ -83,7 +85,7 @@ For any additional questions, please contact **Amelia Dahm ameliaadahm@gmail.com
 
 ```
 ├── README.md                          <- The top-level README for reviewers of this project
-├── FinalNotebookOutline.ipynb            <- Narrative documentation of analysis in Jupyter NB
+├── SentimentAnalysis.ipynb            <- Narrative documentation of analysis in Jupyter NB
 ├── AncillaryAnalyses                  <- Notebooks containing ancillary analyses 
 ├── data                               <- Both sourced externally and generated from code
 └── images                             <- Both sourced externally and generated from code
